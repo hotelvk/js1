@@ -1,0 +1,39 @@
+.divBox
+{
+  width:max-content;
+  margin: auto;
+  border:solid 1px grey;
+  box-shadow: 2px 4px 4px grey;
+  padding: 10px 90px;
+  margin-top:2rem;
+  margin-bottom: 1rem;
+  background-color: white;
+}
+.tbl
+{
+  border-collapse: collapse;
+  background-image: radial-gradient(white, lightskyblue);
+}
+td,th
+{
+  padding:5px 15px ;
+}
+.profileImg
+{
+  height: 80px;
+  width: 80px;
+  border-radius: 80px;
+  border:solid 1px grey;
+}
+h3
+{
+  text-align: center;
+}
+body
+{
+  background-image: linear-gradient(#3976ad, white);
+}
+.largerFont
+{
+  font-size: large;
+}
